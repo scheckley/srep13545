@@ -1,5 +1,4 @@
-# Bridging the gap between in vitro and in vivo: Dose and schedule predictions for the ATR inhibitor
-AZD6738
+# Bridging the gap between in vitro and in vivo: Dose and schedule predictions for the ATR inhibitor AZD6738
 
 Stephen Checkley, Linda MacCallum, James Yates, Paul Jasper, Haobin Luo, John Tolsma & Claus Bendtsen 
 
